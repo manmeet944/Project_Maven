@@ -8,7 +8,7 @@
 	<version>3.2.0</version>
 	<name>CounterWebApp Maven Webapp</name>
 	<url>http://maven.apache.org</url>
-	
+	<!----->FETCHTESTING<-------------->
 	
 	<properties>
 		<jdk.version>1.7</jdk.version>
