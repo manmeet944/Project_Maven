@@ -10,7 +10,13 @@
 	<url>http://maven.apache.org</url>
 	<!----->FETCHTESTING<-------------->
 	<!------Yoyo-------------->
+<<<<<<< HEAD
 	
+=======
+	<!-----Pull--------------->
+	
+	<!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!>
+>>>>>>> master
 	<properties>
 		<jdk.version>1.7</jdk.version>
 		<spring.version>4.1.1.RELEASE</spring.version>
